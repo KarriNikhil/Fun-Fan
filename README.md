@@ -1,2 +1,2 @@
 # Fun-Fan
-i am beginner web developer, this is my first repository 
+I am a beginner web developer, and this is my first code
