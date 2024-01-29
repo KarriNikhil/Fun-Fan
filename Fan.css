@@ -1,0 +1,23 @@
+#star {
+       font-size: 25em;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       color: blue;
+     }  
+.on{
+  animation: ani 0.1s linear infinite;
+}
+button {
+  font-size: 3em;
+  margin-left: 50px;
+  margin: 50px;
+}
+@keyframes ani {
+       0%{
+          transform: rotate(0deg);
+       }
+       100%{
+         transform: rotate(360deg);
+       }
+     }
